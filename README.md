@@ -3,7 +3,7 @@
   <img src="https://i.ibb.co/Df3MzfG/1327bbd369c34c77953c6142d3eb619b.png" width="250" title="hover text">
 </p>
 
-###   **Project Description**
+##   **Project Description**
 
 LiNote is a Single Page application Used as a Note Management System for Creating and Saving Notes with built in Alerts.   <br>
 Built by MVC architectural pattern based on Java Spring Boot in the Server Side, and React js on the Client Side.   <br>

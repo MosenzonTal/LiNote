@@ -56,6 +56,8 @@ postgresql
 ---
 
 ### Expose to URLs :
+**The application exposes the following endpoints:**
+
 	"/" Homepage 
 	"/login" 
 	"/register" 

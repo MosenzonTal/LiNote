@@ -21,6 +21,8 @@ An Automatic Email would be sent to the registered user, on the chosen Target Da
 - spring-boot-starter-quartz
 - postgresql
 
+---
+
 ### Functionality:
 **• Registration –** validates whether username/Email Address is already exists, if Email Address is inserted correctly and whether password is strong enough.  User Authentication Token stored for the user in success. <br>
 **• Login –** validates whether username is exists in the application DB. <br>
@@ -31,11 +33,15 @@ An Automatic Email would be sent to the registered user, on the chosen Target Da
 •** Changing Color** of each Note <br>
 • **Setting is Done/UnDone** Flag. <br>
 
+---
+
 ### RESTful APIs Services:
 •	Retrieve all Notes of the user **(GET METHOD)** <br>
 •	Delete a Note of a user **(DELETE METHOD)** <br>
 •	Edit a Note of a user **(PUT METHOD)** <br>
 •	Create a new Note **(POST METHOD)** <br>
+
+---
 
 ### Expose to URLs :
 •	 - "/" Homepage <br>
@@ -46,6 +52,8 @@ An Automatic Email would be sent to the registered user, on the chosen Target Da
 •	"/notes" <br>
 •	"/notes/addNote" <br>
 •	ERROR PAGE <br>
+
+---
 
 ### Security:
 Secured App by Authenticated Router and Session Storage for blocking access to users whom are not logged in so they will be auto route to Login Page whether they try go to hard coded URL. 

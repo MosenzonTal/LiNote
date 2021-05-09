@@ -7,7 +7,7 @@
 
 
 <p align="left">
-  <img src="https://i.ibb.co/Df3MzfG/1327bbd369c34c77953c6142d3eb619b.png" width="100" title="hover text">
+  <img src="https://i.ibb.co/Df3MzfG/1327bbd369c34c77953c6142d3eb619b.png" width="150" title="hover text">
 </p>
 
 LiNote is a Single Page application used as a Note Management System for Creating and Saving Notes with built in Alerts.   <br>

@@ -53,10 +53,10 @@ An Automatic Email would be sent to the registered user, on the chosen Target Da
 •	"/login" <br>
 •	"/register" <br>
 •	"/welcome/:name" <br>
-•	"/logout  <br>
+•	"/logout" <br>
 •	"/notes" <br>
 •	"/notes/addNote" <br>
-•	ERROR PAGE <br>
+•	404-ERROR-PAGE <br>
 
 ---
 
@@ -69,6 +69,11 @@ Secured App by Authenticated Router and Session Storage for blocking access to u
 ### Demo:
 
 ---
+
+<p align="center">
+      <img src="https://i.ibb.co/q1cz9nV/home.png" width="500" title="hover text">      
+</p>
+
 
 <p align="center">
   <b>© 2021 Tal Mosenzon.  All rights reserved.</b>

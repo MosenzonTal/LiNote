@@ -24,12 +24,14 @@ An Automatic Email would be sent to the registered user, on the chosen Target Da
 **Back End:** java 11, Java Spring Boot, JPA, Hibernate, Java MAIL, Quartz  <br>
 **Database and Tools:**  PostgreSQL and Postman  <br>
 **Dependencies:**  
-- spring-boot-starter-data-jpa
-- spring-boot-starter-web
-- Lombok
-- spring-boot-starter-mail
-- spring-boot-starter-quartz
-- postgresql
+```
+spring-boot-starter-data-jpa
+spring-boot-starter-web
+Lombok
+spring-boot-starter-mail
+spring-boot-starter-quartz
+postgresql
+```
 
 ---
 
@@ -54,14 +56,14 @@ An Automatic Email would be sent to the registered user, on the chosen Target Da
 ---
 
 ### Expose to URLs :
-•	 - "/" Homepage <br>
-•	"/login" <br>
-•	"/register" <br>
-•	"/welcome/:name" <br>
-•	"/logout" <br>
-•	"/notes" <br>
-•	"/notes/addNote" <br>
-•	404-ERROR-PAGE <br>
+	"/" Homepage 
+	"/login" 
+	"/register" 
+	"/welcome/:name" 
+	"/logout" 
+	"/notes" 
+	"/notes/addNote" 
+	"404-ERROR-PAGE"
 
 ---
 

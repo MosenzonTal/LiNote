@@ -14,7 +14,16 @@
 Built by MVC architectural pattern based on Java Spring Boot in the Server Side, and React js on the Client Side.   <br>
 I used PostgreSQL as a database managed on the server, to store the data. <br>
 In addition, I implemented a feature of an Email alert with the use of Java Mail and Quartz Cron Scheduler. <br>
-An Automatic Email would be sent to the registered user, on the chosen Target Date at 8:00 AM .*
+An Automatic Email would be sent to the registered user, on the chosen Target Date at 8:00 AM, with a reminder of the note title  .* <br>
+**and it seems like this:**
+
+<p align="center">
+      <img src="https://i.ibb.co/SPB965L/email.png" width="800" title="hover text">  
+</p>
+<p align="center">
+       <img src="https://i.ibb.co/c8Z1M9F/email.png" width="300" title="hover text">    
+</p>
+
 
 ---
 

@@ -31,9 +31,9 @@ An Automatic Email would be sent to the registered user, on the chosen Target Da
 ### Functionality:
 - **Registration –** validates whether username/Email Address is already exists, if Email Address is inserted correctly and whether password is strong enough.  User Authentication Token stored for the user in success. <br>
 - **Login –** validates whether username is exists in the application DB. <br>
-- ** Add new Note** <br>
+- **Add new Note** <br>
 - **Set an alert** (by email) to the Target date <br>
-- **Delete Note ** <br>
+- **Delete Note** <br>
 - **Setting Priority** of each Note <br>
 - **Changing Color** of each Note <br>
 - **Setting is Done/UnDone** Flag. <br>

@@ -87,8 +87,6 @@ An Automatic Email would be sent to the registered user, on the chosen Target Da
     "/notes" 
     "/notes/addNote" 
     "404-ERROR-PAGE"
-
-
 ```
 
 ---

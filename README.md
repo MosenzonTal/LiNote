@@ -25,12 +25,12 @@ An Automatic Email would be sent to the registered user, on the chosen Target Da
 **Database and Tools:**  PostgreSQL and Postman  <br>
 **Dependencies:**  
 ```
-spring-boot-starter-data-jpa
-spring-boot-starter-web
-Lombok
-spring-boot-starter-mail
-spring-boot-starter-quartz
-postgresql
+    spring-boot-starter-data-jpa
+    spring-boot-starter-web
+    Lombok
+    spring-boot-starter-mail
+    spring-boot-starter-quartz
+    postgresql
 ```
 
 ---
@@ -46,6 +46,25 @@ postgresql
 - **Setting is Done/UnDone** Flag. <br>
 
 ---
+### Entities:
+**Each Note includes:**
+```
+    Title
+    Body
+    Priority (1-5)
+    Done/UnDone flag
+    Color
+    Target Date
+
+```
+
+**Each User includes:**
+```
+    Username
+    Password
+    Email Address
+   ``` 
+---
 
 ### RESTful APIs Services:
 -	Retrieve all Notes of the user **(GET METHOD)** <br>
@@ -56,25 +75,25 @@ postgresql
 ---
 
 ### Expose to URLs :
-**The application exposes the following endpoints:**
-
-	"/" Homepage 
-	"/login" 
-	"/register" 
-	"/welcome/:name" 
-	"/logout" 
-	"/notes" 
-	"/notes/addNote" 
-	"404-ERROR-PAGE"
+***The application exposes the following endpoints:***
+```
+    "/" Homepage 
+    "/login" 
+    "/register" 
+    "/welcome/:name" 
+    "/logout" 
+    "/notes" 
+    "/notes/addNote" 
+    "404-ERROR-PAGE"
+    ```
 
 ---
 
 ### Security:
+
 Secured App by Authenticated Router and Session Storage for blocking access to users whom are not logged in so they will be auto route to Login Page whether they try go to hard coded URL. 
 
-
 ---
-
 ### Demo:
 
 ---

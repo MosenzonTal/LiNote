@@ -10,11 +10,11 @@
   <img src="https://i.ibb.co/Df3MzfG/1327bbd369c34c77953c6142d3eb619b.png" width="150" title="hover text">
 </p>
 
-LiNote is a Single Page application used as a Note Management System for Creating and Saving Notes with built in Alerts.   <br>
+*LiNote is a Single Page application used as a Note Management System for Creating and Saving Notes with built in Alerts.   <br>
 Built by MVC architectural pattern based on Java Spring Boot in the Server Side, and React js on the Client Side.   <br>
 I used PostgreSQL as a database managed on the server, to store the data. <br>
 In addition, I implemented a feature of an Email alert with the use of Java Mail and Quartz Cron Scheduler. <br>
-An Automatic Email would be sent to the registered user, on the chosen Target Date at 8:00 AM .
+An Automatic Email would be sent to the registered user, on the chosen Target Date at 8:00 AM .*
 
 ---
 

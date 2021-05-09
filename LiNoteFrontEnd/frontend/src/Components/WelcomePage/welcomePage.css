@@ -1,0 +1,11 @@
+
+.welcome-text
+{
+    padding: 197px 0px;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px #000;
+    letter-spacing: 12px;  
+    color: rgb(0, 0, 0);  
+    font-family: cursive;   
+}
+

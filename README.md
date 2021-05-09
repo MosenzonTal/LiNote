@@ -6,7 +6,7 @@ I used PostgreSQL as a database managed on the server, to store the data.
 In addition, I implemented a feature of an Email alert with the use of Java Mail and Quartz Cron Scheduler.
 An Automatic Email would be sent to the registered user, on the chosen Target Date at 8:00 AM .
 
---------------------
+---
 
 ### Technology Stack:
 **Front End:** React Js, Axios, Javascript
@@ -20,4 +20,3 @@ An Automatic Email would be sent to the registered user, on the chosen Target Da
 - spring-boot-starter-mail
 - spring-boot-starter-quartz
 - postgresql
-

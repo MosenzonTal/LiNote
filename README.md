@@ -102,7 +102,7 @@ An Automatic Email would be sent to the registered user, on the chosen Target Da
 
 ### Security:
 
-***Secured App by Authenticated Router and Session Storage for blocking access to users whom are not logged in so they will be auto route to Login Page whether they try go to hard coded URL.*** 
+*Secured App by Authenticated Router and Session Storage for blocking access to users whom are not logged in so they will be auto route to Login Page whether they try go to hard coded URL.* 
 
 ---
 ### Demo:

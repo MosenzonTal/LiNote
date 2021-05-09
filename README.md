@@ -1,4 +1,9 @@
-# LiNote
+
+<p align="center">
+  <img src="https://i.ibb.co/Df3MzfG/1327bbd369c34c77953c6142d3eb619b.png" width="250" title="hover text">
+</p>
+
+###   **Project Description**
 
 LiNote is a Single Page application Used as a Note Management System for Creating and Saving Notes with built in Alerts.   <br>
 Built by MVC architectural pattern based on Java Spring Boot in the Server Side, and React js on the Client Side.   <br>
@@ -58,4 +63,13 @@ An Automatic Email would be sent to the registered user, on the chosen Target Da
 ### Security:
 Secured App by Authenticated Router and Session Storage for blocking access to users whom are not logged in so they will be auto route to Login Page whether they try go to hard coded URL. 
 
+
+<p align="center">
+  <b>© 2021 Tal Mosenzon.  All rights reserved.</b>
+</p>
+
+<p align="center">
+      <img src="https://www.endivesoftware.com/blog/wp-content/uploads/2020/01/Spring-Boot-Application-Development.png" width="200" title="hover text">
+        <img src="https://www.webrexstudio.com/wp-content/uploads/2019/05/react-js-image.png" width="175" title="hover text">
+</p>
 

@@ -24,6 +24,12 @@ An Automatic Email would be sent to the registered user, on the chosen Target Da
        <img src="https://i.ibb.co/c8Z1M9F/email.png" width="300" title="hover text">    
 </p>
 
+---
+
+###  Promotional Video Of the application: (Recommended) 
+
+Watch LiNote in Action:
+【•－>】 https://www.youtube.com/watch?v=DtDnP4K7avA
 
 ---
 
@@ -41,12 +47,6 @@ An Automatic Email would be sent to the registered user, on the chosen Target Da
     spring-boot-starter-quartz
     postgresql
 ```
-
-###  Promotional Video Of the application: (Recommended) 
-
-Watch LiNote in Action:
-【•－>】 https://www.youtube.com/watch?v=DtDnP4K7avA
-
 
 ---
 

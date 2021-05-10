@@ -42,6 +42,12 @@ An Automatic Email would be sent to the registered user, on the chosen Target Da
     postgresql
 ```
 
+###  Promotional Video Of the application: (Recommended) 
+
+Watch LiNote in Action:
+【•－>】 https://www.youtube.com/watch?v=DtDnP4K7avA
+
+
 ---
 
 ### Functionality:
@@ -106,7 +112,7 @@ An Automatic Email would be sent to the registered user, on the chosen Target Da
 
 ---
 ### Demo:
-
+https://youtu.be/DtDnP4K7avA
 ---
 
 
